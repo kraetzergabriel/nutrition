@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Nutrition</string>
+    <string name="lbPeso">Peso(kg)</string>
+    <string name="hintPeso">digite o peso</string>
+    <string name="lbAltura">Altura</string>
+    <string name="hintAltura">digite a altura</string>
+    <string name="lbSexo">Sexo</string>
+    <string name="rbMasculino">Masculino</string>
+    <string name="rbFeminino">Feminino</string>
+    <string name="btCalcular">Calcular</string>
+    <string name="titleConfirmacao">Confirmação</string>
+    <string name="btOK">OK</string>
+    <string name="requiredField">Campo obrigatório</string>
+    <string name="msgPeso">Seu IMC é de </string>
+    <string-array name="classification">
+        <item>Baixo peso muito grave </item>
+        <item>Baixo peso grave</item>
+        <item>Baixo peso</item>
+        <item>Peso normal</item>
+        <item>Sobrepeso</item>
+        <item>Obesidade grau I</item>
+        <item>Obesidade grau II</item>
+        <item>Obesidade grau III</item>
+    </string-array>
+</resources>
